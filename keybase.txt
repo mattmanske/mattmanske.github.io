@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mattmanske
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://manske.me
+  * I am mattmanske (https://keybase.io/mattmanske) on keybase.
+  * I have a public key ASCEGF_UR7VXsSqps6n_WINfdGwpCc7MSHrZH2YvYOh4oAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d0e6c189d3141b8c10e30a096c35c5c9701d44a6c25c4adb2d1741cecbdb015c0a",
+      "host": "keybase.io",
+      "kid": "012084185fd447b557b12aa9b3a9ff58835f746c2909cecc487ad91f662f60e878a00a",
+      "uid": "97e7c537e40a1828c3f85b17f3a05619",
+      "username": "mattmanske"
+    },
+    "merkle_root": {
+      "ctime": 1576559944,
+      "hash": "cab0f3253ed25ad3b46f6921fe2f3ceb736d9532d52b8ede73f5f6a81535570bd1f52c50e950908206ec58e3f8f72a6c4aedfbf557a29cf705eb2e8f137c5163",
+      "hash_meta": "9268ce12e83e966a0bb30ecb6bf4be6198dcee1596afe666605650f814e67fa9",
+      "seqno": 13681041
+    },
+    "service": {
+      "entropy": "xIn0mE7R++gfJLdGCrrhx49O",
+      "hostname": "manske.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1576559951,
+  "expire_in": 504576000,
+  "prev": "8e87fc4f90c6d65fa87f054fffd039999c8196c89ebcb35e490595e4a3d7edc7",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghBhf1Ee1V7EqqbOp/1iDX3RsKQnOzEh62R9mL2DoeKAKp3BheWxvYWTESpcCFsQgjof8T5DG1l+ofwVP/9A5mZyBlsievLNeSQWV5KPX7cfEINDgUD68fnC96ew9JssQahvLsccU8g3fyP1Fjb7MhaOLAgHCo3NpZ8RABg+A99HEa029ZnlpIc1HgWGg/mtwso9M7Aoyz92E46Mi1izR/W9i3pZPZpkzA4+K7Zt4xEaplNGXnR9G9gp9B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBh/xPz9aTluYJ6v1pZqvd2OeKzVLSHJB9OD1FYF17pWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mattmanske
+
+==================================================================

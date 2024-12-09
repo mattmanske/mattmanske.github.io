@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /nnsb-calc/
+Disallow: /nnsb-admin/
+Disallow: /sweepster-app/
+Disallow: /sweepster-admin/
+Disallow: /miro_challenge/
